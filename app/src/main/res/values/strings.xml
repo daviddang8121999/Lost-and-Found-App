@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">LostandFoundApp</string>
+    <string name="post_type" />
+    <string name="lost" />
+    <string name="found" />
+    <string name="post_type_">Post type</string>
+    <string name="lost_">Lost</string>
+    <string name="found_">Found</string>
+    <string name="name_">Name</string>
+    <string name="phone_">Phone</string>
+    <string name="description_">Description</string>
+    <string name="dates_">Dates</string>
+    <string name="location_">location</string>
+    <string name="type_your_name_here">Type your name here</string>
+    <string name="type_your_phone_number">Type your phone number</string>
+    <string name="description_input">Description input</string>
+    <string name="type_date">Type_date</string>
+    <string name="type_location">Type location</string>
+    <string name="create_a_new_advert">create_a_new_advert</string>
+    <string name="show_all_lost_found_items">show_all_lost_found_items</string>
+    <string name="delete">Delete</string>
+    <string name="create_a_new_advert1">CREATE A NEW ADVERT</string>
+    <string name="show_all_lost_found_items1">SHOW ALL LOST FOUND ITEMS</string>
+    <string name="lost_found_items">Lost found items</string>
+</resources>
